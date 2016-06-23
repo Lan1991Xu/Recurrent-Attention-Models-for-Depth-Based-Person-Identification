@@ -1,0 +1,11 @@
+https://www.albert.cm/projects/ram_person_id/data/DPI-T_train_rgb_images.zip
+https://www.albert.cm/projects/ram_person_id/data/DPI-T_test_rgb_images.zip
+
+https://www.albert.cm/projects/ram_person_id/data/DPI-T_train_depth_images.zip
+https://www.albert.cm/projects/ram_person_id/data/DPI-T_test_depth_images.zip
+
+https://www.albert.cm/projects/ram_person_id/data/DPI-T_train_depth_map.h5
+https://www.albert.cm/projects/ram_person_id/data/DPI-T_test_depth_map.h5
+
+https://www.albert.cm/projects/ram_person_id/data/DPI-T_train_point_cloud.h5
+https://www.albert.cm/projects/ram_person_id/data/DPI-T_test_point_cloud.h5
